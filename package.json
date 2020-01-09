@@ -1,0 +1,23 @@
+{
+  "name": "lite-starter",
+  "version": "1.0.0",
+  "description": "Ultra Lite JavaScript Library Starter Pack",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwannabebot/lite-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwannabebot/lite-starter/issues"
+  },
+  "homepage": "https://github.com/iwannabebot/lite-starter#readme",
+  "devDependencies": {
+    "uglify-js": "^3.7.4"
+  }
+}
